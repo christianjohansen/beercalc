@@ -43,7 +43,7 @@ namespace beercalc
                 int s = seconds - 60 * m;
                 timer.Text = "" + m + ":" + s;
             }
-            if (seconds != 0) timer.Text += " (paused)";
+            if (seconds != 0) timer.Text += " (paused)"; 
 
         }
 

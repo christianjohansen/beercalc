@@ -1,5 +1,8 @@
-<<<<<<< Updated upstream
-# Ignore everything 
-* 
- 
->>>>>>> Stashed changes
+*
+
+!.gitignore
+!beercalc/packages.config
+!beercalc/*.xaml
+!beercalc/*.cs
+
+!*/
