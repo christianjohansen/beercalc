@@ -1,11 +1,5 @@
+<<<<<<< Updated upstream
 # Ignore everything 
 * 
  
-# But not these files... 
-!.gitignore 
-!*.xaml 
-!*.cs 
-# etc... 
- 
-# ...even if they are in subdirectories 
-!*/
+>>>>>>> Stashed changes
